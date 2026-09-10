@@ -1,7 +1,6 @@
 body{
   background-color: darkgrey;
   font-size:20px;
-  text-align: ;
 }
 h1,h2{
   color: linen;
@@ -14,8 +13,13 @@ img{
   margin-right:auto;
 }
 p{
-  color: white;
+  color: rgb(248, 248, 242);
   font: Ariel;
   margin: 20px;
   text-align: justify;
+}
+li{
+  background-color: darkgrey;
+  font-size:20px;
+  padding-left: 5px;
 }
